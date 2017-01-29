@@ -1,0 +1,7 @@
+/ivy/
+/build/
+.project
+.classpath
+.settings
+.businessLogic.war
+/WebContent/WEB-INF/lib/
